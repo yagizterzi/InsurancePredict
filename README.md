@@ -82,5 +82,5 @@ This project is licensed under the MIT License.
 - [pandas](https://pandas.pydata.org/) for data manipulation.
 - [matplotlib](https://matplotlib.org/) for data visualization.
 - [scikit-learn](https://scikit-learn.org/) for machine learning utilities.
-
+- https://medium.com/i%CC%87stanbuldatascienceacademy/istdsa-b%C3%BClten-49-zaman-serilerinde-tahmin-modelleri-b82937d7b708 for learning time series forecasting.
 Feel free to contribute to this project by opening issues or submitting pull requests.
